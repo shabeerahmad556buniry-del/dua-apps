@@ -1,1 +1,3 @@
 # dua-apps
+📿 Dua App Description:
+This Dua App is a simple and beautiful Islamic application that provides daily essential duas with Arabic text, English translation, and Urdu translation. It includes audio recitation for each dua, along with next/previous navigation, search feature, and dark mode for comfortable reading. This app is perfect for learning and listening to daily duas anytime, anywhere.
